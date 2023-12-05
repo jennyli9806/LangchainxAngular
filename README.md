@@ -1,4 +1,5 @@
 # MyAngularApp
+You need to ensure you install nodemodules to include langchain packages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
